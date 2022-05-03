@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.DEBUG, format='%(levelname)s (%(threadName)-s)
 
 def start_server():
   # starting server
-  print("Start...")
+  print("Base de datos conectada...")
   # do some startup work
 
 
